@@ -28,7 +28,7 @@ body {
 
 .container {
     position: sticky;
-    width: 200px;
+    width: 400px;
     background-color: white;
     margin: 100px auto;
     transform: translate(0%, -14%);
